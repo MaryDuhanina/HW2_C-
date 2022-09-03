@@ -1,0 +1,15 @@
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/bin/Debug/net6.0/Task15
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/bin/Debug/net6.0/Task15.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/maryduhanina/Desktop/GeegBrain/C#/2886/Lesson2/HW2_C#/Task15/obj/Debug/net6.0/ref/Task15.dll
