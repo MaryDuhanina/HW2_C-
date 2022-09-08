@@ -4,7 +4,7 @@ int numberA = Convert.ToInt32(Console.ReadLine());
 
 int result1 = numberA % 7;
 int result2 = numberA % 23;
-if (result1 == 0 || result2 == 0)
+if (result1 == 0 && result2 == 0)
 {
     Console.WriteLine("кратно");   
 }    
