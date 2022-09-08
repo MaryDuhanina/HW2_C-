@@ -1,12 +1,13 @@
-﻿// Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+﻿// Напишите программу, которая выводит третью цифру 
+//заданного числа или сообщает, что третьей цифры нет.
 
 Console.WriteLine("Введите число: ");
 int numberA = Convert.ToInt32(Console.ReadLine());
+ char[]arr = numberA.ToString().ToCharArray();
 
-if (numberA > 99 && numberA < 1000)
+if (numberA > 99)
 {
-    int result1 = numberA % 10;
-    Console.WriteLine("Третья цифра " + result1);
+    Console.WriteLine("Третья цифра " + arr[2]);
 }
 else
 {
